@@ -24,10 +24,10 @@
       "NuGet.Versioning.dll": "sha256-GYrSNHDxaQaJOOr\/QXavIoi9LQnsQj6KB74UFA5rjKo=",
       "Prism.dll": "sha256-0cqJZ4wxskvmmivRTXMauBq+ba0\/8fewhh+khCr1wyI=",
       "System.IO.Pipelines.dll": "sha256-qZYTUS+ga7CydtH54fYPbehFCvx3B49I74G8dxreTog=",
-      "F0.Minesweeper.Components.dll": "sha256-mZ\/HI24S00uVlVWDOBaBty7E2JY+QXVGPZ8EU6iNIyY=",
-      "F0.Minesweeper.Logic.Abstractions.dll": "sha256-4vBTyzHBkRxkpiWveODBOnxumzyeFfUkbi0fibBdjRI=",
-      "F0.Minesweeper.Logic.dll": "sha256-53IwjO4n0\/BWAz5pv84lrEncfMJUQnpbu\/J7NJo5zUk=",
-      "F0.Minesweeper.App.dll": "sha256-rBe\/vGCEisBUFxJBVSrIJZD6AuZ7v6jJF2bD+9MANRs=",
+      "F0.Minesweeper.Components.dll": "sha256-SJScrl5oHTlzVW5hZhFNMsXFUnxIbgf+agUWn3azOZE=",
+      "F0.Minesweeper.Logic.Abstractions.dll": "sha256-vAo04OpZtFtwbqVOt9GvaGa+jr5ZiDhzlBNVzvqpg3c=",
+      "F0.Minesweeper.Logic.dll": "sha256-qrPEO6FwKxg00ClaRaqHePqsWVKNb101n4f3rv4R1cc=",
+      "F0.Minesweeper.App.dll": "sha256-TtpZq3womtyXYMPWpxB2aNDzKVgtSllcE2HXdhhPvEs=",
       "System.Collections.Concurrent.dll": "sha256-2rUxiZ+AEa8X10lxsezEoP7fZFHcv\/7w6RBaIrSP5Dw=",
       "System.Collections.Immutable.dll": "sha256-2uwbqm0R8HkDVuy4ih7qn0VH4jnT3pWJ3pk3PPndxzc=",
       "System.Collections.NonGeneric.dll": "sha256-BT\/WfmwxvumeT9Vtkc+15STCQ1SU7aFRT\/r5LvQXxeg=",
@@ -54,7 +54,7 @@
       "System.Text.Encodings.Web.dll": "sha256-lkJqwGgfNNxTZPdeYKdYGNQEqQwUwfJwZESanGAl3Hk=",
       "System.Text.Json.dll": "sha256-b\/UuQpn9WKePKnMxymdmU7QHynq3znbuzTKrV9aZ768=",
       "System.Text.RegularExpressions.dll": "sha256-a7vwydhtSnvGGOy+bvp8a0XeT3hCclCOjQ8b37ZUf0Q=",
-      "System.Private.CoreLib.dll": "sha256-m3E7jiTDZ4U2BucUIFWCNSsbzCb13zXcHwlRTmkCL80="
+      "System.Private.CoreLib.dll": "sha256-XEXhGOkG1coKLTCeTT7BReBeQR1DKm6PLPRSr0MsP+g="
     },
     "lazyAssembly": null,
     "pdb": null,
