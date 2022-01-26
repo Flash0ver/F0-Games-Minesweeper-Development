@@ -7,10 +7,10 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "F0.Minesweeper.App.dll": "sha256-akW9\/VtIOEJbxqZwRjurTQ1ffHEQtdnOEjvyEuJ+qYQ=",
-      "F0.Minesweeper.Components.dll": "sha256-nEbrWStzF+ypLziwgc6HGwoyEmLBlpnG86sBgQBqvY8=",
-      "F0.Minesweeper.Logic.Abstractions.dll": "sha256-8IWziCUPhDVNEeUeIdTCLkqyRIizkSG3iebyscJANoM=",
-      "F0.Minesweeper.Logic.dll": "sha256-k32K4tRUU6UN963cVeN\/ACbwarSPKfo8jdcpTupYzUY=",
+      "F0.Minesweeper.App.dll": "sha256-hekIoglcGSqGEnDqThVLoqzz3VHNE\/P6YYCXv1PoHnI=",
+      "F0.Minesweeper.Components.dll": "sha256-OUkVQn7kQkmuo6QJNXky+6L2FsCJb\/Jnp9wN84Sx9lI=",
+      "F0.Minesweeper.Logic.Abstractions.dll": "sha256-964kEQRjCcBiKhJUTkTo36W8S5kSoi\/FF4cWrhpufSY=",
+      "F0.Minesweeper.Logic.dll": "sha256-e32WcEusBdOeHZHfSg0hZ4QKj4WBCT9a4NGUhxMUSZ4=",
       "Microsoft.AspNetCore.Components.dll": "sha256-v7nUPi9rDVmEih7G4lczQoIpitpM4gLg48sphoSCV1Q=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-VL3m6nTKDtGQN7coFY07suVlOZaDOInLWmO4UlUZa6E=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-aj6roVJdOD9NQKYVxAzunXPw\/Mb7wa5ydPXmvrrArOc=",
@@ -49,7 +49,7 @@
       "System.Private.Xml.dll": "sha256-oKBnWmePWpGdZD0w9dPK3o1HBBkCKSm2GojqpGZ3n4s=",
       "System.Private.Xml.Linq.dll": "sha256-aCtucGHjH+pSm89WDr1R0aOkyPrHYZCDRjq+gPEERZw=",
       "System.Runtime.CompilerServices.Unsafe.dll": "sha256-lWLrP2SkeEtjbEdvnCokKxYOu+LNxC\/N+o9fErOPhWw=",
-      "System.Runtime.dll": "sha256-pU34a4ZufOzT8L4r30U0ibpJ2V8cJziVuYGf8AXLBN4=",
+      "System.Runtime.dll": "sha256-hlrRiXKL+xHGXHlZRuxqyOZwVftQI0BzxDUHUOIUQ9Q=",
       "System.Runtime.InteropServices.RuntimeInformation.dll": "sha256-1oWqZfJFNd9BtHQcvVYSs+BzMcUKwIR96n2E0DwW8lw=",
       "System.Text.Encodings.Web.dll": "sha256-wpoIHsG+HQYfKV\/LKarpVXK2PbZYvgTPWpbVVJq210Y=",
       "System.Text.Json.dll": "sha256-nZOQ0hlFkICleNvlz427bALwbtW8waujPRsfPqfDqV8=",
