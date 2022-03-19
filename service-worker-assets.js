@@ -33,23 +33,23 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-iBCX6btMrM8ey5IJXhX\/bylxQw6H7LNNURJKjyA9PME=",
+      "hash": "sha256-JDe+aeZcAlHT4ribMgDbhOE+o8URASvt13mrcQBBKIY=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-e\/B2vqXIlcR2mv\/DpzfPg6S424r7+Pk0JW6M87EZfYI=",
+      "hash": "sha256-2VAWFzboG\/mpZcOdZBXMWmlAiC4yl4CX4guBJgvH6J4=",
       "url": "_framework\/F0.Minesweeper.App.dll"
     },
     {
-      "hash": "sha256-+sQ6QMk199Pwr+cF6oAoUu5jPKBBlTgw2hfZU\/U78cQ=",
+      "hash": "sha256-VnmQHrTWgWLmf6L3GhGIREnOLOSjJRVU7aFvjMATOZw=",
       "url": "_framework\/F0.Minesweeper.Components.dll"
     },
     {
-      "hash": "sha256-zmYPghZbR1Ah+coq0jQzI0TdpVGF7J+KqQGVZgCEmaA=",
+      "hash": "sha256-vixbzC8emvnSSRvtJKZrZSaumpfIbgknRtJ+PqBBTyQ=",
       "url": "_framework\/F0.Minesweeper.Logic.Abstractions.dll"
     },
     {
-      "hash": "sha256-8ffA9M3D9kyeI3SaQPqJBwXOJ1rRsQ2moDuPvTqjTvA=",
+      "hash": "sha256-SOinGUA3pgALkGpNURIJp+zcQduW50b8eQ6XhhVCV7w=",
       "url": "_framework\/F0.Minesweeper.Logic.dll"
     },
     {
@@ -245,7 +245,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-MOhbQ4b8VXtj3A6hI92w2VqiEwkedzpzsQwE6om0nYU=",
+      "hash": "sha256-aDIa8COOkk7wy+DBIrFmG5ZF8XDnwYnWWe0Vj9p2xWI=",
       "url": "index.html"
     },
     {
@@ -261,5 +261,5 @@
       "url": "_content\/F0.Minesweeper.Components\/F0.Minesweeper.Components.bundle.scp.css"
     }
   ],
-  "version": "PETKFm9U"
+  "version": "WIaR4YdA"
 };
