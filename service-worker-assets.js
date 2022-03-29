@@ -33,23 +33,23 @@
       "url": "_framework\/icudt.dat"
     },
     {
-      "hash": "sha256-sIXWM0shvHytz1m1eZKTYzeKZUwEkK6CDNZ4IE0Sj9U=",
+      "hash": "sha256-E15kH5psULdEGuiQrhzYkXs9gJhpO3ojKng\/U816D4s=",
       "url": "_framework\/blazor.boot.json"
     },
     {
-      "hash": "sha256-TsHjuqlQWNFii1gD7wXbePKtYRLXYTSQh6+8On\/wSes=",
+      "hash": "sha256-zBc2gRxyIjrcUmRL2N742tIC7qubZ9uC5fG6htJBrLk=",
       "url": "_framework\/F0.Minesweeper.App.dll"
     },
     {
-      "hash": "sha256-65YQjzsv1x\/nmdHAPztGLbWoaFiOzNtSva4Ljmfsd98=",
+      "hash": "sha256-9WvuY4jBOy+FnhthDUkycr7M09OSqJw+J5vkaNJ28cY=",
       "url": "_framework\/F0.Minesweeper.Components.dll"
     },
     {
-      "hash": "sha256-tNLQhDnRQs+w2\/EMyO6c+i7+Z1zJAhg9CSqHNNHr47c=",
+      "hash": "sha256-8zQ0XO4BUNJIhLJxpJhijTL3HGFPkVvGXg4ay3GXkkw=",
       "url": "_framework\/F0.Minesweeper.Logic.Abstractions.dll"
     },
     {
-      "hash": "sha256-+v9iTE24YcNQNTr50ytigUoAUJdO2m8cZIJLRsv4Q9w=",
+      "hash": "sha256-xjX2jgj8nxMJHceZl6PVs19cequUEb2IMOBriqdJ1KQ=",
       "url": "_framework\/F0.Minesweeper.Logic.dll"
     },
     {
@@ -265,5 +265,5 @@
       "url": "_content\/F0.Minesweeper.Components\/F0.Minesweeper.Components.bundle.scp.css"
     }
   ],
-  "version": "bZHfw6ww"
+  "version": "Bu8KHKCb"
 };
